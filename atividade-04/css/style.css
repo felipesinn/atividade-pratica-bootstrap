@@ -1,0 +1,38 @@
+body {
+	background-color: #f0f0f0;
+}
+.text-bg-dark {
+	background-color: #343a40;
+            color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+}
+#foto-perfil {
+	width: 100%;
+	max-width: 250px;
+	border-radius: 50%;
+}
+ul {
+	list-style: none;
+	padding: 0;
+}
+ul li {
+	margin-bottom: 10px;
+}
+ul li a {
+	color: #fff;
+	text-decoration: none;
+}
+.icons a {
+	color: #63686c;
+	margin-right: 10px;
+	font-size: 50px;
+}
+h1 {
+	color: #343a40;
+}
